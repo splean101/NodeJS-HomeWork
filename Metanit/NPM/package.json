@@ -1,0 +1,26 @@
+{
+  "name": "npmmodule",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js Vitalik 33"
+  },
+  "description": "task",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splean101/NPM-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splean101/NPM-task/issues"
+  },
+  "homepage": "https://github.com/splean101/NPM-task#readme"
+}

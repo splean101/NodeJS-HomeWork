@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/lite-server"
+  },
+  "author": "splean101",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
